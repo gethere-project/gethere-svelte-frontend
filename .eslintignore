@@ -1,0 +1,25 @@
+# VSCode
+/.vscode/
+
+# Jetbrains IDEs
+/.idea/
+
+# npm
+/node_modules/
+/package-lock.json
+
+# Yarn
+/yarn.lock
+
+# Svelte
+/.svelte-kit/
+/build/
+/package/
+
+# Vite
+/vite.config.js.timestamp-*
+/vite.config.ts.timestamp-*
+
+# OS Files
+.DS_Store
+Thumbs.db
