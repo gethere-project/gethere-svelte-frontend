@@ -4,12 +4,11 @@
 # Jetbrains IDEs
 /.idea/
 
-# npm
+# Package Managers
 /node_modules/
-/package-lock.json
-
-# Yarn
 /yarn.lock
+/pnpm-lock.yaml
+/package-lock.json
 
 # Svelte
 /.svelte-kit/
@@ -23,3 +22,6 @@
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Other
+/.env

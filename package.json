@@ -2,6 +2,7 @@
   "name": "gethere-svelte-frontend",
   "version": "0.1.0",
   "license": "GPL-3.0-only",
+  "description": "A futuristic and user-friendly Svelte web frontend for the gethere server. Part of the gethere project.",
   "author": {
     "name": "Krystian Wiecheć",
     "email": "krystian.wiechec.pub@krystejj.me",
@@ -29,6 +30,7 @@
     "@sveltejs/adapter-static": "^3.0.1",
     "@sveltejs/kit": "^2.0.0",
     "@sveltejs/vite-plugin-svelte": "^3.0.0",
+    "@types/mapbox-gl": "^3.1.0",
     "@typescript-eslint/eslint-plugin": "^7.0.2",
     "@typescript-eslint/parser": "^7.0.2",
     "eslint": "^8.57.0",
